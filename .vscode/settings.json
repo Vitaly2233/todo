@@ -1,0 +1,6 @@
+{
+  "cSpell.words": ["hmac", "HMACSHA"],
+  "editor.tabSize": 4,
+  "omnisharp.useEditorFormattingSettings": true,
+  "editor.insertSpaces": true
+}
